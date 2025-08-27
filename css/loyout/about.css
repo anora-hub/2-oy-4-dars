@@ -1,0 +1,167 @@
+.pol {
+    padding-left: 300px;
+    padding-top: 50px;
+}
+
+.ju {
+    width: 1400px;
+    height: 700px;
+}
+
+.ism {
+    margin-bottom: -300px;
+}
+
+.non {
+    padding-left: 400px;
+    margin-top: 20px;
+}
+
+.nuqta {
+    margin-top: 300px;
+}
+
+.fr {
+    font-size: 32px;
+    margin-left: 60px;
+}
+
+.hay {
+    margin-top: 100px;
+    padding-top: 500px;
+}
+
+.nov {
+    height: 500px;
+    margin-left: 400px;
+    margin-top: 20px;
+}
+
+.dil {
+    color: rgb(226, 113, 0);
+    margin-left: 400px;
+    margin-top: 30px;
+}
+
+.lok {
+    margin-top: 20px;
+}
+
+.no {
+    margin-left: 400px;
+    color: blue;
+}
+
+.sh {
+    margin-left: 400px;
+    margin-top: 70px;
+    margin-bottom: 100px;
+}
+
+.kl {
+    padding-top: 30px;
+    margin-left: 500px;
+}
+
+.divv {
+    margin-left: 400px;
+    margin-top: 150px;
+}
+
+.fl {
+    padding-top: 20px;
+}
+
+.vo {
+    margin-top: 15px;
+}
+
+.vov {
+    margin-top: 80px;
+}
+
+.vovo {
+    margin-top: 80px;
+}
+
+.bn {
+    color: blue;
+}
+
+.rasm {
+    height: 400px;
+    width: 600px;
+
+}
+
+#projects {}
+
+.overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: rgba(0, 0, 0, 0.325);
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-size: 24px;
+    transform: translateY(100%);
+    transition: 0.5s;
+}
+
+.project-card {
+    position: relative;
+    width: 600px;
+    height: 400px;
+    overflow: hidden;
+}
+
+.project-card:hover .overlay {
+    transform: translateY(0%);
+}
+
+.duy {
+    margin-left: 50px;
+}
+
+.lokat {
+    width: 300px;
+    height: 200px;
+}
+
+.div1 {
+    border: 1px solid black;
+    box-shadow: 5px 5px 10px;
+    width: 350px;
+    height: 450px;
+    padding: 15px;
+    margin-left: 60px;
+}
+
+.gul {
+    padding-top: 20px;
+    padding-left: 100px;
+}
+
+.hu {
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    background-color: rgba(0, 0, 255, 0.578);
+    color: white;
+    margin-left: 50px;
+    border-radius: 15px;
+}
+
+.div2 {
+    border: 1px solid black;
+    box-shadow: 5px 5px 10px;
+    width: 300px;
+    height: 420px;
+    padding: 15px;
+    margin-left: 75px;
+}
